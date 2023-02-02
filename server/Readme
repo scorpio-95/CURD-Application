@@ -1,0 +1,6 @@
+#created server folder 
+
+#performed following steps
+1. npm init
+2. installed dependencies such as body-parser, mysql, cors, express, nodemon
+3. added script under package-json > server:nodemon index.js
